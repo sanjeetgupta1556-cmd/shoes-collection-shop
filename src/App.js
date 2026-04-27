@@ -18,7 +18,7 @@ function App() {
 
 
          
-         <Footer />
+         {/* <Footer /> */}
        </div>
      </Router>
 
